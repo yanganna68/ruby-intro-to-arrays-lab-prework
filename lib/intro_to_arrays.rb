@@ -22,7 +22,7 @@ def first_element_with_array_method(arr)
   arr.shift
 end
 
-def last_element_with_array_methof(arr)
+def first_element_with_array_method(arr)
   arr.pop
 end
 
