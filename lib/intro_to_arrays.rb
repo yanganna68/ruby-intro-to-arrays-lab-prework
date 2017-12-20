@@ -19,11 +19,11 @@ def last_element(arr)
 end
 
 def first_element_with_array_methods(arr)
-  arr.shift
+  arr.first
 end
 
-def first_element_with_array_methods(arr)
-  arr.pop
+def last_element_with_array_methods(arr)
+  arr.last
 end
 
 def length_of_array(arr)
